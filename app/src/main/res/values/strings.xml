@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jul11</string>
+
+    <string name="hello_world">Hello From Jaxon\'s Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jaxon">JaxonActivity</string>
+</resources>
